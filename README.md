@@ -5,7 +5,7 @@
 ![Rust](https://img.shields.io/badge/Rust-Study-orange?logo=rust) ![Archive](https://img.shields.io/badge/Knowledge-Archive-blue)
 
 ## 🥘 Introduction
-이 스터디는 딱딱한 Rust🦀의 개념들을 푹 고아서, **자신만의 이해로 부드럽게 요리하는 레시피**을 남기는 공간입니다.
+이 스터디는 딱딱한 Rust🦀의 개념들을 푹 고아서, **자신만의 이해로 부드럽게 요리하는 레시피**를 남기는 공간입니다.
 
 우리는 매주 정해진 분량을 학습하고, **자신만의 시식 노트(Study Note)**를 작성하여 공유합니다.
 

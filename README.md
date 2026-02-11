@@ -11,7 +11,7 @@
 
 ## 👨‍🍳 Chefs (Contributors)
 이 맛있는 꽃게탕을 함께 요리하는 셰프들입니다.
-- **Head Chef**: [@OurVacation](https://github.com/OurVacation)
+- **Head Chef**: [@OurVacation](https://github.com/OurVacation) [@taewonki](https://profile.intra.42.fr/users/taewonki)
 - **Chef**: [@Member1](https://github.com/Member1)
 
 ## 🚀 How to Cook (Rule)

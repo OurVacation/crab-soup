@@ -22,7 +22,7 @@
 
 ### 2. 노트 작성 (Ingredients Prep)
 해당 주차의 챕터 폴더(예: `Chapter_03/`) 안에 **자신의 닉네임.md** 파일을 생성합니다.
-- 파일명 예시: `gilsan.md`, `gilsan_ch03.md`
+- 파일명 예시: `taewonki.md`, `jaehylee_ch04.md`,`jawhang_ch03.md`
 
 > **Tip:** 단순히 책 내용을 베끼는 것이 아니라, **내가 이해한 방식, 막혔던 부분, 깨달은 점** 위주로 적습니다. (진짜 내 지식이 됩니다!)
 
